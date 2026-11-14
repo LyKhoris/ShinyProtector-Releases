@@ -1,10 +1,12 @@
 # ShinyProtector companion downloads
 
-This repository hosts compiled review builds and instructions only, not the project source repository.
+This repository hosts distribution documentation only, not the project source repository.
 
-**[Download the Linux x86-64 companion and checksums](https://github.com/LyKhoris/ShinyProtector-Releases/releases/tag/v0.0.5)**
+**No companion download is published yet.** The Linux x86-64 archive has been built and tested locally, but its upload is pending. Windows/macOS installers are not available yet. Do not treat a GitHub draft release as an accessible download.
 
-The companion download is public; the Chrome Web Store extension remains an unpublished draft. No test account or credentials are supplied.
+The Chrome Web Store extension remains an unpublished draft, configured for Unlisted distribution. Once approved and published, anyone with its store link can install without an invitation list. No Canvas test account or credentials are supplied.
+
+The instructions below describe the prepared Linux review build and apply once its archive and checksum are available.
 
 ---
 
